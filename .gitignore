@@ -1,0 +1,13 @@
+# Environment files
+.env
+!.env.example
+
+# IDE files
+.idea/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# Typescript files
+node_modules/
