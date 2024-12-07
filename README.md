@@ -7,6 +7,7 @@
 
 2. Với python:
 
+- Khởi tạo môi trường conda: conda create -n myenv python=3.11
 - Active enviroment ở part 1 qua câu lệnh: conda activate myenv
 - Cài đặt package qua lệnh: pip install -r requirements.txt
 - Chạy file: python multi_agent-Langgraph.py
